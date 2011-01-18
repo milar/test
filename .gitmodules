@@ -1,0 +1,6 @@
+[submodule "node-crawler"]
+	path = node-crawler
+	url = git://github.com/joshfire/node-crawler.git
+[submodule "jsdom"]
+	path = jsdom
+	url = git://github.com/tmpvar/jsdom.git
